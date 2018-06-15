@@ -1,0 +1,161 @@
+@font-face {
+  font-family: ocra;
+ src: url(OCRAEXT.TTF);
+}
+div{
+  margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+h1 {
+  font-family: ocra;
+    position: absolute;
+    top: 40px;
+    left:40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+h4 {
+  font-family: ocra;
+  position:absolute;
+  top: 40px;
+  right:250px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+
+}
+h2 {
+  font-family: ocra;
+  position:absolute;
+  top: 40px;
+  right:150px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+
+}
+
+
+
+h3 {
+  font-family: ocra;
+  position:absolute;
+  top: 40px;
+  right:40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+.cl-effect-3 a {
+	padding: 8px 0;
+}
+
+.cl-effect-3 a::after {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	height: 4px;
+	background: rgba(0,0,0,0.1);
+	content: '';
+	opacity: 0;
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	-moz-transition: opacity 0.3s, -moz-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	transform: translateY(10px);
+
+}
+
+
+.cl-effect-3 a:hover::after,
+.cl-effect-3 a:focus::after {
+	opacity: 1;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	transform: translateY(0px);
+}
+
+.image {height:220px;
+       width:700px;
+       }
+       a:link, a:visited {
+    text-decoration: none;
+    color: black;
+    background-color: transparent
+  }
+  .kuniyoshi{
+    max-height: 220px
+  }
+  .vangogh {
+    max-height: 220px
+
+  }
+#partebianca{
+    width: 100%;
+    height:220px;
+    background-color:white;
+}
+#partegialla{
+    width: 100%;
+    height:220px;
+    background-color:black;
+
+}
+
+
+img {
+    border-style: none;
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+div{
+  margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+ul {
+    list-style: none;
+}
+.logo {
+position: absolute;
+left:650px;
+bottom: 10px;
+}
+.logo2 {
+position: absolute;
+left:713px;
+bottom: 21px;
+
+}
+.logo3 {
+position: absolute;
+left:600px;
+bottom: 15px;
+}
+.transition-mask__bars {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    font-size: 0;
+}
