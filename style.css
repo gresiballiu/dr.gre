@@ -18,26 +18,17 @@ border: 0;
     position: absolute;
     top: 5%;
     left:3%;
-    font-size: 2.5vh;
+    font-size: 120%;
     font-weight: bold;
     color: black;
 }
-h4 {
-  font-family: ocra;
-  position:absolute;
-  top: 40px;
-  right:250px;
-  font-size: 18px;
-  font-weight: bold;
-  color: black;
 
-}
 h2 {
   font-family: ocra;
   position:absolute;
   top: 5%;
   right:10%;
-  font-size: 2.5vh;
+  font-size:100%;
   font-weight: bold;
   color: black;
 
@@ -50,7 +41,7 @@ h3 {
   position:absolute;
   top: 5%;
   right:3%;
-  font-size: 2.5vh;
+  font-size: 100%;
   font-weight: bold;
   color: black;
 }
