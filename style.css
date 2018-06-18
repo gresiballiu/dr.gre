@@ -16,9 +16,9 @@ padding: 0;
 border: 0;
   font-family: ocra;
     position: absolute;
-    top: 5%;
-    left:3%;
-    font-size: 120%;
+    top: 5vh;
+    left:3vw;
+    font-size: 1.5em;
     font-weight: bold;
     color: black;
 }
@@ -26,9 +26,9 @@ border: 0;
 h2 {
   font-family: ocra;
   position:absolute;
-  top: 5%;
-  right:10%;
-  font-size:100%;
+  top: 5vh;
+  right:10vw;
+  font-size:1.5em;
   font-weight: bold;
   color: black;
 
@@ -39,9 +39,9 @@ h2 {
 h3 {
   font-family: ocra;
   position:absolute;
-  top: 5%;
-  right:3%;
-  font-size: 100%;
+  top: 5vh;
+  right:3vw;
+  font-size: 1.5em;
   font-weight: bold;
   color: black;
 }
