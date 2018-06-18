@@ -18,7 +18,7 @@ border: 0;
     position: absolute;
     top: 5%;
     left:3%;
-    font-size: 1em;
+    font-size: 2.5vh;
     font-weight: bold;
     color: black;
 }
@@ -37,7 +37,7 @@ h2 {
   position:absolute;
   top: 5%;
   right:10%;
-  font-size: 1em;
+  font-size: 2.5vh;
   font-weight: bold;
   color: black;
 
@@ -50,7 +50,7 @@ h3 {
   position:absolute;
   top: 5%;
   right:3%;
-  font-size: 1em;
+  font-size: 2.5vh;
   font-weight: bold;
   color: black;
 }
@@ -140,7 +140,6 @@ border: 0;
 position: absolute;
 left:48%;
 bottom: 2.5%;
-display:table-cell;
 }
 .logo2 {margin: 0;
 padding: 0;
@@ -148,8 +147,6 @@ border: 0;
 position: absolute;
 left:52%;
 bottom: 4.3%;
-display:table-cell;
-
 }
 .logo3 {margin: 0;
 padding: 0;
@@ -157,7 +154,6 @@ border: 0;
 position: absolute;
 left:45%;
 bottom: 3%;
-display:table-cell;
 }
 .transition-mask__bars {
     width: 100%;
