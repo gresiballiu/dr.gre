@@ -26,7 +26,7 @@ h2 {
   font-weight: bold;
   color: white;
   top:1vh;
-  left:45%;
+  left:45vw;
 }
 .cl-effect-3 a {
 	padding: 8px 0;
@@ -87,8 +87,7 @@ a{
   width: 100%;
   text-align: center;
 }
-.w3-button {
+.w3-button .w3-black .w3-display-right {
 height: 6vh;
 width: 6vh;
-
 }
