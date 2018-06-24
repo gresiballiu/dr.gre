@@ -23,12 +23,12 @@ top:2%;
 left:2%;
   font-family: ocra;
     position: absolute;
-    font-size:150%;
+    font-size:1.5em;
     color: black;
 
 }
 
-h2 {
+.portfolio {
   font-family: ocra;
   position:absolute;
   top: 5vh;
@@ -36,12 +36,18 @@ h2 {
   font-size:1.5em;
   font-weight: bold;
   color: black;
-
+  max-height: 100%;
+  max-width: 10%;
+}
+.barra {position: absolute;
+width: 100%;
+background-color:white;
+display:table-cell;
+height:6%;
+top: 2%;
 }
 
-
-
-h3 {
+.about {
   font-family: ocra;
   position:absolute;
   top: 5vh;
@@ -49,6 +55,8 @@ h3 {
   font-size: 1.5em;
   font-weight: bold;
   color: black;
+  max-height: 100%;
+  max-width: 5%;
 }
 .cl-effect-3 a {
 	padding: 8px 0;
