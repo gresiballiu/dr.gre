@@ -9,13 +9,15 @@
 @media (min-width: 1200px) { ... }
 
 
+
+
 h1 {
 
 top:10%;
 left:2%;
   font-family: ocra;
     position: absolute;
-    font-size:20px;
+    font-size:3vh;
     color: black;
 font-weight: bold;
 }
@@ -25,7 +27,7 @@ font-weight: bold;
   position:absolute;
   top: 10%;
   right:10vw;
-  font-size:20px;
+  font-size:3vh;
   font-weight: bold;
   color: black;
   max-height: 100%;
@@ -41,9 +43,9 @@ top: 2%;
 .about {
   font-family: ocra;
   position:absolute;
-  top: 5vh;
+  top: 10%;
   right:3vw;
-  font-size: 20px;
+  font-size: 3vh;
   font-weight: bold;
   color: black;
   max-height: 100%;
