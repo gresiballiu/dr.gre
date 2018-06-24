@@ -25,7 +25,7 @@ h2 {
   position:absolute;
   font-weight: bold;
   color: white;
-  top:1%;
+  top:1vh;
   left:45%;
 }
 .cl-effect-3 a {
@@ -86,4 +86,9 @@ a{
   bottom: 8px;
   width: 100%;
   text-align: center;
+}
+.w3-button {
+height: 6vh;
+width: 6vh;
+
 }
