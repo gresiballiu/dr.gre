@@ -20,10 +20,10 @@ vertical-align: baseline;
 h1 {margin: 0;
 padding: 0;
 border: 0;
+top:2%;
+left:2%;
   font-family: ocra;
     position: absolute;
-    top: 5vh;
-    left:3vw;
     font-size:150%;
     font-weight: bold;
     color: black;
@@ -99,12 +99,7 @@ h3 {
     max-height: 100%;
 
   }
-#titolo{top: 0.01%;
-  position: absolute;
-  width: 100%;
-  background-color:white;
-  display:table-cell;
-}
+
 
 
 #partegialla{
