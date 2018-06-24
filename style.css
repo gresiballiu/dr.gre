@@ -109,7 +109,14 @@ h3 {
     margin-top: 15.5%;
 
 }
+#loghi {top: 90%
+  position: absolute;
+  width: 100%;
+  background-color:white;
+  display:table-cell;
+  height:5%;
 
+}
 
 img {
     border-style: none;
@@ -137,6 +144,7 @@ border: 0;
 position: absolute;
 left:48%;
 bottom: 2.5%;
+max-height: 100%;
 }
 .logo2 {margin: 0;
 padding: 0;
@@ -144,6 +152,7 @@ border: 0;
 position: absolute;
 left:52%;
 bottom: 4.3%;
+max-height: 100%;
 }
 .logo3 {margin: 0;
 padding: 0;
@@ -151,6 +160,7 @@ border: 0;
 position: absolute;
 left:45%;
 bottom: 3%;
+max-height: 100%;
 }
 .transition-mask__bars {
     width: 100%;
