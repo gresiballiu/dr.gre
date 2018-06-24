@@ -24,7 +24,7 @@ border: 0;
     position: absolute;
     top: 5vh;
     left:3vw;
-    font-size: 1.5em;
+    font-size:150%;
     font-weight: bold;
     color: black;
     max-height:50%;
@@ -99,7 +99,7 @@ h3 {
     max-height: 100%;
 
   }
-#titolo{top: 1%;
+#titolo{top: 0.01%;
   position: absolute;
   width: 100%;
   background-color:white;
@@ -124,12 +124,7 @@ h3 {
   height:6%;
 
 }
-#titolo {top:0.1%;
-background-color:white;
-display:table-cell;
-height:6%;
-max-height: 100%;
-}
+
 
 img {
     border-style: none;
