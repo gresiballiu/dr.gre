@@ -7,8 +7,11 @@ html{
   background-color: #2F2F2F;
   font-family:ocra;
   font-size: 18;
-}
 
+}
+body {
+  position: absolute;
+}
 a:link, a:visited {
 text-decoration: none;
 color: white;
@@ -23,7 +26,7 @@ h2 {
   font-family: ocra;
   position:absolute;
   right:600px;
-  font-size: 18px;
+  font-size: 0.5rem;
   font-weight: bold;
   color: white;
   border-top: 0px;
@@ -72,7 +75,7 @@ h2 {
   height: 60px;
 }
 .mySlides {
-  max-height: 500px
+  max-height: 250px;
 }
 
 a{
