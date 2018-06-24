@@ -2,10 +2,12 @@
   font-family: ocra;
  src: url(OCRAEXT.TTF);
 }
+
 @media (min-width: 576px) { ... }
 @media (min-width: 768px) { ... }
 @media (min-width: 992px) { ... }
 @media (min-width: 1200px) { ... }
+
 div{
 margin: 0;
 padding: 0;
