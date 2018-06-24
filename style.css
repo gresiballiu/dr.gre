@@ -17,17 +17,14 @@ font: inherit;
 vertical-align: baseline;
 }
 
-h1 {margin: 0;
-padding: 0;
-border: 0;
+h1 {
+
 top:2%;
 left:2%;
   font-family: ocra;
     position: absolute;
     font-size:150%;
-    font-weight: bold;
     color: black;
-    max-height:50%;
 
 }
 
