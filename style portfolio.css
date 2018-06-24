@@ -67,10 +67,7 @@ h2 {
   margin: 0px;
 }
 
-}
-.header{
-  height: 60px;
-}
+
 .mySlides {
   max-height: 70vh;
 }
@@ -78,16 +75,12 @@ h2 {
 a{
   color:white
 }
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
+.w3-display-right {
   position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
+  height:95vh;
 }
-.w3-button .w3-black .w3-display-right {
-height: 6vh;
-width: 6vh;
+
+.w3-display-left {
+  position: absolute;
+  height:95vh;
 }
