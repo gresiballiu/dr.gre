@@ -27,6 +27,8 @@ border: 0;
     font-size: 1.5em;
     font-weight: bold;
     color: black;
+    max-height:50%;
+
 }
 
 h2 {
@@ -109,7 +111,7 @@ h3 {
     margin-top: 15.5%;
 
 }
-#loghi {top: 90%
+#loghi {top: 90%;
   position: absolute;
   width: 100%;
   background-color:white;
