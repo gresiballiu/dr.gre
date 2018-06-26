@@ -3,7 +3,7 @@
  src: url(OCRAEXT.TTF);
 }
 html{
-  background-color: #2F2F2F;
+  background-color:white;
 }
 
 a:link, a:visited {
@@ -11,7 +11,16 @@ text-decoration: none;
 color: white;
 background-color: transparent;
 }
-
+.left{
+  position: absolute;
+  top: 30vh;
+  left: 2vw;
+}
+.right{
+  position: absolute;
+  top: 30vh;
+  right: 2vw;
+}
 
 a {font-family: ocra;
 position:absolute;
@@ -72,10 +81,15 @@ font-size: 3vh;
   position: absolute;
   max-height:100%;
   width: 3vw;
+  top:15vh;
+  right:5vw;
+  background-color: yellow;
 }
 
 .w3-display-left {
   position: absolute;
   max-height:100%;
   width: 3vw;
+  top:20vh;
+  left:10vw;
 }
