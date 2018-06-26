@@ -9,8 +9,6 @@
 @media (min-width: 1200px) { ... }
 
 
-
-
 h1 {
 
 top:3vh;
@@ -21,8 +19,7 @@ left:2%;
     color: black;
 font-weight: bold;
 }
-
-.portfolio {
+#portfolio.portfolio {
   font-family: ocra;
   position:absolute;
   top: 3vh;

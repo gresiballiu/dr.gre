@@ -70,12 +70,12 @@ font-size: 3vh;
 
 .w3-display-right {
   position: absolute;
-  height:6vh;
+  max-height:100%;
   width: 3vw;
 }
 
 .w3-display-left {
   position: absolute;
-  height:6vh;
+  max-height:100%;
   width: 3vw;
 }
