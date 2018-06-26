@@ -13,11 +13,15 @@ background-color: transparent;
 }
 .left{
   position: absolute;
+  height: 5.5vh;
+  max-width: 100%;
   top: 30vh;
   left: 2vw;
 }
 .right{
   position: absolute;
+  height: 5.5vh;
+  max-width: 100%;
   top: 30vh;
   right: 2vw;
 }
